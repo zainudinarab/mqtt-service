@@ -1,3 +1,9 @@
+// MQTT_BROKER =:9381
+//     MQTT_USERNAME =
+//     MQTT_PASSWORD =
+//     LARAVEL_API =
+
+
 const mqtt = require('mqtt');
 const axios = require('axios');
 require('dotenv').config();
